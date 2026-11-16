@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "name": "Молоко фермерское 1 л", "category": "Молочные", "price": 650, "unit": "шт", "emoji": "🥛", "color": "#e3f2fd" },
+    { "id": 2, "name": "Творог домашний 500 г", "category": "Молочные", "price": 1200, "unit": "шт", "emoji": "🧀", "color": "#fff8e1" },
+    { "id": 3, "name": "Сметана 20% 400 г", "category": "Молочные", "price": 900, "unit": "шт", "emoji": "🍶", "color": "#f3e5f5" },
+    { "id": 4, "name": "Мёд цветочный 500 г", "category": "Мёд", "price": 3500, "unit": "шт", "emoji": "🍯", "color": "#fff3cd" },
+    { "id": 5, "name": "Яйца куриные 10 шт", "category": "Яйца", "price": 1100, "unit": "уп", "emoji": "🥚", "color": "#fbe9e7" },
+    { "id": 6, "name": "Картофель 1 кг", "category": "Овощи", "price": 350, "unit": "кг", "emoji": "🥔", "color": "#efebe9" },
+    { "id": 7, "name": "Морковь 1 кг", "category": "Овощи", "price": 300, "unit": "кг", "emoji": "🥕", "color": "#ffe0b2" },
+    { "id": 8, "name": "Мука пшеничная 2 кг", "category": "Бакалея", "price": 800, "unit": "шт", "emoji": "🌾", "color": "#f1f8e9" }
+  ]
+}
